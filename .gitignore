@@ -7,7 +7,7 @@ target/
 .mvn
 mvnw
 mvnw.cmd
-.mvn/wrapper
+!mvn/wrapper
 
 ### STS ###
 .gitattributes
