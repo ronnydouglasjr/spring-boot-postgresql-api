@@ -39,3 +39,11 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Ignora arquivos de configuração do Maven
+.mvn/wrapper/
+mvnw
+mvnw.cmd
+
+# Ignora .gitattributes
+.gitattributes
