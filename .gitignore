@@ -11,6 +11,8 @@ mvnw.cmd
 
 ### STS ###
 .gitattributes
+mvnw
+mvnw.cmd
 .apt_generated
 .classpath
 .factorypath
